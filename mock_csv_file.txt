@@ -1,0 +1,7 @@
+In this script, we're using the faker library to generate random unique order IDs and dates. used Python's built-in random
+module to randomly select products from a pre-defined list and generate random quantities.
+The product prices are generated using the numpy module's uniform function,
+which generates random floating-point numbers in a given range.
+
+This script will create a CSV file with 100 rows of fake sales data and save it as 'sales_data.csv'.
+You can then use this CSV file for testing and learning purposes.
